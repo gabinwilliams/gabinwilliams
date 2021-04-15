@@ -2,7 +2,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-I'm Gabin Williams, a JavaScript Developer from the MN. I enjoy building modern applications and solving logical problems in a creative way.
+I'm Gabin Williams, a JavaScript Developer from MN. I enjoy building modern applications and solving logical problems in a creative way.
 
 ---
 
@@ -12,7 +12,7 @@ I'm Gabin Williams, a JavaScript Developer from the MN. I enjoy building modern 
 
 - I’m always working on improving my skills and knowledge!  
 - I'm focusing on building fullstack apps with a particular interest in frontend development. 
-- I'm a month and two weeks away from graduating a acelerated fullstack software engineering program at Prime Digial Acedemy.
+- I'm completing an acelerated fullstack software engineering program at Prime Digial Acedemy.
 
 
 
