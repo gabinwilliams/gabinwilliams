@@ -12,7 +12,7 @@ I'm Gabin Williams, a JavaScript Developer from MN. I enjoy building modern appl
 
 - I’m always working on improving my skills and knowledge!  
 - I'm focusing on building fullstack apps with a particular interest in frontend development. 
-- I'm completed an acelerated fullstack software engineering program at Prime Digial Acedemy.
+- I completed an acelerated fullstack software engineering program at Prime Digial Acedemy.
 
 
 
