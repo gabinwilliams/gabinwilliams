@@ -2,9 +2,9 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-I'm Gabin Williams, a JavaScript Developer from MN. I enjoy building modern applications and solving logical problems in a creative way.
+I'm Gabin Williams, a Fullstack Software Engineer. I enjoy building modern applications and solving problems in a creative way.
 
----
+--- I currently do most of my coding on my work github for the time being so I don't get to show it off :(
 
 ### My current stack
 
